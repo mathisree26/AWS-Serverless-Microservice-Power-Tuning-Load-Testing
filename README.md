@@ -20,9 +20,7 @@ This project demonstrates how to design, power-tune, and load-test an AWS Server
 
 The microservice follows a classic serverless pattern:
 
-```
-Client → API Gateway → Lambda Function → DynamoDB
-```
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/b459f7471f1b9a71b80fab9660976644dc79bc37/images/AWS%20Serverless%20MicroService%20LinkedIn%20Post.jpg)
 
 | Component | Role |
 |---|---|
