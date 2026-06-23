@@ -43,6 +43,8 @@ Lambda memory was tested across multiple configurations using the [AWS Lambda Po
 | 512 MB | ✅ |
 | 1024 MB | ✅ |
 
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/22055ad2018c3d21c9bd9a63c51d9e89e15219ef/images/AWS%20Lambda%20Power%20Tuning%20Results.png)
+
 ### Result
 
 > **Optimal configuration: 512 MB**
