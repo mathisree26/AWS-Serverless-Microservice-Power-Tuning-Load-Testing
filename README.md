@@ -60,12 +60,18 @@ The microservice was load tested using Postman's collection runner to capture pe
 ### 128 MB Memory — Results
 
 - 📊 **Average response time**: Measured across test duration
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/48b65c44c939b7434362cf8df502c1db33a7c128/images/Average%20response%20time%20observed%20with%20128%20MB%20Memory.png)
+
 - 📈 **Response time trend**: Observed throughout the load test window
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/48b65c44c939b7434362cf8df502c1db33a7c128/images/Response%20time%20trends%20during%20test%20duration%20for%20128%20MB%20Memory.png)
 
 ### 1024 MB Memory — Results
 
 - 📊 **Average response time**: Measured across test duration
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/48b65c44c939b7434362cf8df502c1db33a7c128/images/Average%20response%20time%20observed%20with%201024%20MB%20Memory.png)
+
 - 📈 **Response time trend**: Observed throughout the load test window
+![image alt](https://github.com/mathisree26/AWS-Serverless-Microservice-Power-Tuning-Load-Testing/blob/48b65c44c939b7434362cf8df502c1db33a7c128/images/Response%20time%20trends%20during%20test%20duration%20for%201024%20MB%20Memory.png)
 
 Load testing is **repeatable**, making it straightforward to re-run benchmarks whenever the function code or infrastructure changes.
 
